@@ -1,3 +1,10 @@
+/* ==========================
+   Write a function that creates a linked list with random letters stored in it. The method takes in a length and letter range. It will return the head to the new list.
+
+   Assumes all input is valid: numNodes>=1, minLetter<=maxLetter.
+   ========================== */
+
+
 #include <stdio.h>
 #include <iostream>
 #include <string>
